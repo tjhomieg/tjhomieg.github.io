@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.tumblr.com	TRUE	/	FALSE	1999999999	tmgioct	5ffa9c013ab2380674034650
+dropboxusercontent.com	TRUE	/	FALSE	1999999999	uc_session	Lvac3as37DqCYX2T6ojkUklBdbGrCWanRyqIqLrEkIfsCKcaJLiGnHvUUCM35JFJ
+

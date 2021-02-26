@@ -1,0 +1,57 @@
+/*
+ * The Typekit service used to deliver this font or fonts for use on websites
+ * is provided by Adobe and is subject to these Terms of Use
+ * http://www.adobe.com/products/eulas/tou_typekit. For font license
+ * information, see the list below.
+ *
+ * europa:
+ *   - http://typekit.com/eulas/00000000000000003b9b12fa
+ *   - http://typekit.com/eulas/00000000000000003b9b12fe
+ *   - http://typekit.com/eulas/00000000000000003b9b12fd
+ *   - http://typekit.com/eulas/00000000000000003b9b12f9
+ *   - http://typekit.com/eulas/00000000000000003b9b12fb
+ *   - http://typekit.com/eulas/00000000000000003b9b12fc
+ *
+ * © 2009-2020 Adobe Systems Incorporated. All Rights Reserved.
+ */
+/*{"last_published":"2019-11-18 17:52:36 UTC"}*/
+
+@import url("../p.typekit.net/pa942.css?s=1&amp;k=bmx4inu&amp;ht=tk&amp;f=15528.15529.15530.17251.17252.17253&amp;a=6102863&amp;app=typekit&amp;e=css");
+
+@font-face {
+font-family:"europa";
+src:url("af/f3ba4f/00000000000000003b9b12fa/27/l04c7?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&amp;fvd=n7&amp;v=3") format("woff2"),url("af/f3ba4f/00000000000000003b9b12fa/27/d04c7?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&amp;fvd=n7&amp;v=3") format("woff"),url("af/f3ba4f/00000000000000003b9b12fa/27/a04c7?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&amp;fvd=n7&amp;v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:700;
+}
+
+@font-face {
+font-family:"europa";
+src:url("af/3e64fb/00000000000000003b9b12fe/27/l0ac7?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&amp;fvd=n3&amp;v=3") format("woff2"),url("af/3e64fb/00000000000000003b9b12fe/27/d0ac7?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&amp;fvd=n3&amp;v=3") format("woff"),url("af/3e64fb/00000000000000003b9b12fe/27/a0ac7?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&amp;fvd=n3&amp;v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:300;
+}
+
+@font-face {
+font-family:"europa";
+src:url("af/4eabcf/00000000000000003b9b12fd/27/l64f0?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&amp;fvd=n4&amp;v=3") format("woff2"),url("af/4eabcf/00000000000000003b9b12fd/27/d64f0?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&amp;fvd=n4&amp;v=3") format("woff"),url("af/4eabcf/00000000000000003b9b12fd/27/a64f0?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&amp;fvd=n4&amp;v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;
+}
+
+@font-face {
+font-family:"europa";
+src:url("af/a386b3/00000000000000003b9b12f9/27/l00c0?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&amp;fvd=i3&amp;v=3") format("woff2"),url("af/a386b3/00000000000000003b9b12f9/27/d00c0?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&amp;fvd=i3&amp;v=3") format("woff"),url("af/a386b3/00000000000000003b9b12f9/27/a00c0?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&amp;fvd=i3&amp;v=3") format("opentype");
+font-display:auto;font-style:italic;font-weight:300;
+}
+
+@font-face {
+font-family:"europa";
+src:url("af/e32ad9/00000000000000003b9b12fb/27/l34b8?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&amp;fvd=i4&amp;v=3") format("woff2"),url("af/e32ad9/00000000000000003b9b12fb/27/d34b8?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&amp;fvd=i4&amp;v=3") format("woff"),url("af/e32ad9/00000000000000003b9b12fb/27/a34b8?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&amp;fvd=i4&amp;v=3") format("opentype");
+font-display:auto;font-style:italic;font-weight:400;
+}
+
+@font-face {
+font-family:"europa";
+src:url("af/a6fa4a/00000000000000003b9b12fc/27/l3fe8?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&amp;fvd=i7&amp;v=3") format("woff2"),url("af/a6fa4a/00000000000000003b9b12fc/27/d3fe8?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&amp;fvd=i7&amp;v=3") format("woff"),url("af/a6fa4a/00000000000000003b9b12fc/27/a3fe8?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&amp;fvd=i7&amp;v=3") format("opentype");
+font-display:auto;font-style:italic;font-weight:700;
+}
+
+.tk-europa { font-family: "europa",sans-serif; }

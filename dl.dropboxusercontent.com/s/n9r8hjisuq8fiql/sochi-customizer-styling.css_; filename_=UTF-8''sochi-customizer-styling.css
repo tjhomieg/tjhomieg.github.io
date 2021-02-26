@@ -1,0 +1,29 @@
+#toggle {font-size:.8rem; position:fixed; z-index:100; top:0; left:0; margin:10px;}
+#toggle > * {position:relative;}
+#toggle button {outline:none; font:inherit; cursor:pointer; display:block; border:none;}
+#toggle > button {box-shadow:0 0 6px rgba(0,0,0,.2); padding:8px; width:29px; height:29px; border-radius:3px; z-index:2;}
+#toggle svg {width:13px; height:auto;}
+
+#toggle-wrap {line-height:1.5em; box-shadow:0 0 6px rgba(0,0,0,.1); padding:1.5em; width:130px; border-radius:5px; margin-top:10px; display:none; z-index:1; background:#fff;}
+#toggle-wrap button:before {content:''; display:inline-block; width:1em; height:1em; margin-right:.5em; vertical-align:middle;}
+#toggle-wrap button:after {content:attr(name); text-transform:capitalize;}
+#toggle-wrap button {color:#aaa; background:transparent; line-height:1em; font-size:.9em; padding:.75em 0; width:100%; text-align:left;}
+#toggle-wrap button.current {color:#444;}
+#toggle-wrap button.current:before {background:url('data:image/svg+xml; charset=utf-8, %3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2224%22%20height%3D%2224%22%20viewBox%3D%220%200%2024%2024%22%20fill%3D%22none%22%20stroke%3D%22%23444%22%20stroke-width%3D%222%22%20stroke-linecap%3D%22round%22%20stroke-linejoin%3D%22round%22%20class%3D%22feather%20feather-check%22%3E%3Cpolyline%20points%3D%2220%206%209%2017%204%2012%22%3E%3C%2Fpolyline%3E%3C%2Fsvg%3E'); background-size:cover; background-position:center; background-repeat:no-repeat;}
+
+.options:not(:first-child) {margin-top:.8em;}
+[data-toggle-name] {margin-bottom:.45em;}
+[data-toggle-name]:after{content:attr(data-toggle-name); text-transform:capitalize;}
+
+#toggle.open #toggle-wrap {display:block;}
+
+/* specific */
+
+.blueberry-theme #toggle > button {background:var(--blueberry-sidebar-background); color:var(--blueberry-sidebar-text);}
+.avocado-theme #toggle > button {background:var(--avocado-sidebar-background); color:var(--avocado-sidebar-text);}
+.banana-theme #toggle > button {background:var(--banana-sidebar-background); color:var(--banana-sidebar-text);}
+.cherry-theme #toggle > button {background:var(--cherry-sidebar-background); color:var(--cherry-sidebar-text);}
+.grape-theme #toggle > button {background:var(--grape-sidebar-background); color:var(--grape-sidebar-text);}
+.orange-theme #toggle > button {background:var(--orange-sidebar-background); color:var(--orange-sidebar-text);}
+.watermelon-theme #toggle > button {background:var(--watermelon-sidebar-background); color:var(--watermelon-sidebar-text);}
+.none-theme #toggle > button {background:var(--reg-sidebar-background); color:var(--reg-sidebar-text);}
